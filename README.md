@@ -44,7 +44,7 @@ This project is part of the virtual internship program by **Cloudcredits Technol
 ## 🔗 Submission Details
 
 This project will be submitted to **Cloudcredits Technologies** as part of the internship.  
-Follow my progress here and on [LinkedIn](https://www.linkedin.com/in/your-profile/).
+Follow my progress here and on [LinkedIn](https://www.linkedin.com/in/dua-rizwan-868716247/).
 
 ---
 
